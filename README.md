@@ -1,2 +1,0 @@
-# QuantumRollCallUpdate
-QuantumRollCall更新服务
